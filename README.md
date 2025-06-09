@@ -26,13 +26,12 @@ Atualmente, foco em:
 ---
 
 ### 🚀 Projetos em destaque
-/*
+
 | Projeto | Descrição | Tecnologias |
 |--------|-----------|-------------|
 | [🛰 Previsão Viabilidade](https://github.com/ThiagoJFreitas/projeto-viabilidade-ml) | Previsão a viabilidade de projetos com base em investimento, retorno esperado e impacto social.(Regressão Logistica) | Python, Numpy |
-| [🌪️ Radar-AI](https://github.com/seuusuario/radar-ai) | Previsão de tempo com redes neurais e imagens de radar | PyTorch, CNNs, Meteorologia |
-| [🧪 PredRNN Analyzer](https://github.com/seuusuario/predrnn-analyzer) | Análise de modelos de predição de vídeo meteorológico | PredRNN, PyTorch, Visdom |
-*/
+| [🧪 Agente de IA ](https://github.com/ThiagoJFreitas/skytrack_chatbot_LLM) | Este projeto consiste em um chatbot baseado em LLM (Large Language Model) para atendimento ao cliente de uma marca fictícia de drones | LLM, Streamlit , Flask |
+
 ---
 
 
