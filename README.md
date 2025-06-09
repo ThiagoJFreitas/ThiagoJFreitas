@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6e00ff,100:00e0ff&height=200&section=header&text=Moisés%20Freitas%20👨‍🔬&fontSize=40&fontAlign=center&fontColor=ffffff"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6e00ff,100:00e0ff&height=200&section=header&text=Thiago%20Freitas%20👨‍🔬&fontSize=40&fontAlign=center&fontColor=ffffff"/>
 
 <p align="center">
   <strong>🧠 Cientista de Dados | 🤖 Especialista em Inteligência Artificial | 🚀 Explorador de Conhecimento</strong>
