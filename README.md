@@ -1,31 +1,53 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6e00ff,100:00e0ff&height=200&section=header&text=Thiago%20Freitas%20🧑‍💻&fontSize=40&fontAlign=center&fontColor=ffffff"/>
+<!-- Banner com efeito -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:2c5364&height=200&section=header&text=Thiago%20Freitas%20🚀&fontSize=40&fontColor=ffffff&animation=fadeIn"/>
 
 <p align="center">
-  <strong>🧠 Cientista de Dados | 🤖 Especialista em Inteligência Artificial | 🚀 Explorador de Conhecimento</strong>
+  <strong>Software Engineer • Cientista de Dados • Especialista em IA</strong><br/>
+  <em>Paixão por algoritmos eficientes, visão computacional e IA aplicada ao mundo real.</em>
 </p>
 
 ---
 
-### ✨ Sobre mim
+### 👨‍💻 Sobre mim
 
-Sou **Thiago Freitas**, um apaixonado por resolver problemas complexos com **Machine Learning**, **Deep Learning** e **modelos inspirados na física**. Tenho experiência em pesquisa aplicada, análise de dados e desenvolvimento de soluções de IA robustas e interpretáveis.
+Sou **Thiago Freitas**, mestre em Ciências Espaciais pelo ITA e com mais de 9 anos de experiência na área de Tecnologia da Informação. Atualmente atuo como:
 
-Atualmente, foco em:
-- 🔬 Modelos baseados em operadores integrais (FNOs, PINNs)
-- 🛰️ Estimativa de posição com sensores (GPS, visão computacional)
-- 📊 Aplicações em meteorologia, espaço aéreo e cidades inteligentes
+- 🧠 Pesquisador em Inteligência Artificial aplicada à navegação aérea
+- 👨‍🏫 Professor universitário em cursos de Computação
+- 👨‍🔬 Cientista de Dados com foco em modelos de previsão e análise multivariada
+
+Meu foco está em soluções de alto desempenho usando **Python, C++**, visão computacional, redes neurais profundas e técnicas estatísticas avançadas.
 
 ---
 
-### 🧰 Tecnologias & Ferramentas
+### ⚙️ Tecnologias e Ferramentas
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,opencv,jupyter,git,linux,postgresql,docker" />
+  <img src="https://skillicons.dev/icons?i=python,cpp,git,linux,opencv,jupyter,docker,tensorflow,pytorch,vscode" />
 </p>
 
 ---
 
-### 🚀 Projetos em destaque
+### 🔬 Áreas de Interesse
+
+- 🔍 Odometria visual e navegação baseada em sensores
+- 🌦️ NowCasting meteorológico com redes neurais multimodais
+- 🧠 Deep Learning, Bayesian Networks e séries temporais
+- 🚁 Sistemas embarcados e testes em voo simulados
+
+---
+
+### 📚 Experiência Acadêmica
+
+- 🎓 Mestre em Ciências Espaciais – ITA (2023)
+- 📘 Pós-graduação em Big Data e Gestão de TI
+- 📗 Graduação em Análise e Desenvolvimento de Sistemas
+
+Atualmente cursando doutorado no ITA com foco em **redes neurais multimodais para previsão meteorológica**.
+
+---
+
+### 🧪 Projetos em Destaque
 
 | Projeto | Descrição | Tecnologias |
 |--------|-----------|-------------|
@@ -34,28 +56,28 @@ Atualmente, foco em:
 
 ---
 
+### 🏅 Certificações
 
-### 📈 Estatísticas
+- [Machine Learning Specialization – Stanford/DeepLearning.AI](https://www.coursera.org/account/accomplishments/specialization/MC7XQDA39D7H)
+- [Deep Learning Specialization – DeepLearning.AI](https://www.coursera.org/account/accomplishments/specialization/25EZR84VQGJV)
+- [Python for Data Science and AI – IBM](https://www.credly.com/badges/3c685ce2-d911-478e-9875-46c48571c897/linked_in_profile)
+- [AI for Everyone – DeepLearning.AI](https://www.coursera.org/account/accomplishments/verify/6URRDKPG4THF)
+
+---
+
+### 📊 Estatísticas GitHub
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ThiagoJFreitas&show_icons=true&theme=radical&count_private=true" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ThiagoJFreitas&layout=compact&theme=radical" />
+  <img src="https://github-readme-stats.vercel.app/api?username=ThiagoJFreitas&show_icons=true&theme=dark&count_private=true&hide_title=true" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ThiagoJFreitas&layout=compact&theme=dark" />
 </p>
 
 ---
 
-### 📫 Onde me encontrar
+### 📬 Contato
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/tjfreitas"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="mailto:thiagojsf90@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-  <a href="https://thiagojose.com.br"><img src="https://img.shields.io/badge/Portfólio-000?style=for-the-badge&logo=githubpages&logoColor=white"/></a>
-</p>
-
----
-
-<p align="center">
-  🧠 *"Ciência é a poesia da curiosidade organizada."* – Thiago Freitas
-</p>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00e0ff,100:6e00ff&height=120&section=footer"/>
+  <a href="mailto:thiagojsf90@gmail.com"><img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/tjfreitas"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="https://github.com/ThiagoJFreitas"><img src="https://img.shields.io/badge/-GitHub-000000?style=for-the-badge&logo=github&logoColor=white"/></a>
+  <a href="http://lattes.cnpq.br/8828557645146463"><img src="https://img.shields.io/badge/-Lattes-1a237e?style=for-the-badge&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAoAAAALCAYAAACp6lHuAAAAMUlEQ
