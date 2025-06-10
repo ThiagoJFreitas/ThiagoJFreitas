@@ -55,7 +55,7 @@ Atualmente, foco em:
 ---
 
 <p align="center">
-  🧠 *"Ciência é a poesia da curiosidade organizada."* – Moisés Freitas
+  🧠 *"Ciência é a poesia da curiosidade organizada."* – Thiago Freitas
 </p>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00e0ff,100:6e00ff&height=120&section=footer"/>
