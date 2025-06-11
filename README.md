@@ -40,7 +40,8 @@ Meu foco está em soluções de alto desempenho usando **Python, C++**, visão c
 ### 📚 Experiência Acadêmica
 
 - 🎓 Mestre em Ciências Espaciais – ITA (2023)
-- 📘 Pós-graduação em Big Data e Gestão de TI
+- 📘 Pós Graduação em Big Data e Gestão de TI
+- 📘 Pós Graduação em BIG DATA (Ciência de Dados)
 - 📗 Graduação em Análise e Desenvolvimento de Sistemas
 
 Atualmente cursando doutorado no ITA com foco em **redes neurais multimodais para previsão meteorológica**.
